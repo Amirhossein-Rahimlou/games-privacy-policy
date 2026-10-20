@@ -47,6 +47,11 @@
   --accent-2: #ffb21e;
   --accent-soft: rgba(255, 107, 44, 0.12);
 }
+.theme-worldstellar {
+  --accent: #3d7bff;
+  --accent-2: #8a5cff;
+  --accent-soft: rgba(61, 123, 255, 0.12);
+}
 .theme-block-bloom {
   --accent: #e2489a;
   --accent-2: #8b5cf6;
