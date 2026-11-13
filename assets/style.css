@@ -57,6 +57,11 @@
   --accent-2: #8b5cf6;
   --accent-soft: rgba(226, 72, 154, 0.12);
 }
+.theme-outwall {
+  --accent: #14a38b;
+  --accent-2: #3d7bff;
+  --accent-soft: rgba(20, 163, 139, 0.12);
+}
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }

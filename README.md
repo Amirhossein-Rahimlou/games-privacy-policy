@@ -7,6 +7,7 @@ One privacy policy per game, served with GitHub Pages.
 | Rush Street | `/rush-street/` |
 | WorldStellar | `/worldstellar/` |
 | Block Bloom Blast! | `/block-bloom-blast/` |
+| Outwall | `/outwall/` |
 
 Pages URL: `https://amirhossein-rahimlou.github.io/games-privacy-policy/`
 
